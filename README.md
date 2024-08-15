@@ -54,4 +54,5 @@ npm run dev
 ```
 Visit http://localhost:3000 in your browser to explore.
 
-![image](https://github.com/user-attachments/assets/27c8a37d-eac4-46a2-b515-e8b43d2939c8)
+![image](https://github.com/user-attachments/assets/c15240ac-d8ab-4c14-a177-cfa3f56f9203)
+
